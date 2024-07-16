@@ -6,6 +6,7 @@ import java.util.List;
 
 public class LINKED_LIST {
     public static void main(String[] args) {
+
         List<String> studentName = new LinkedList<>();
         studentName.add("Rakesh"); // Add function is used to add items in the list
         studentName.add("Onkar");
